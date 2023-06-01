@@ -1,1 +1,0 @@
-print("git ve github")
